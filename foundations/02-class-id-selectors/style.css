@@ -1,0 +1,22 @@
+p{
+    background-color:#ffc0cb;
+    font-family: "Verdana","DejaVu-Sans",sans-serif;
+
+}
+
+#IDone{
+    color: #000ff0;
+    font-size: 36px;
+
+}
+
+p.Bolded{
+    font-size: 24px;
+}
+
+#IDtwo{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
